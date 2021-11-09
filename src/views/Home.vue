@@ -255,7 +255,7 @@ export default {
   float: left;
 }
 .div2 {
-  width: 80%;
+  width: 1200px;
   height: 500px;
   border: 2px solid #fd115c;
   background-color: rgb(14, 16, 35);
