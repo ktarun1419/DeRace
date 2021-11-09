@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <div>
-      <h2 style="font-size: 24px ">LIMITED SALE</h2>
-      <h2 style="font-size: 28px; margin: 60px; color:white;">LIMITED SALE</h2>
+      <h2 style="font-size: 24px ">LIMITED BREED</h2>
+      <h2 style="font-size: 28px; margin-top: 80px; color:white;">LIMITED BREED</h2>
     </div>
 
     <div class="div2">
